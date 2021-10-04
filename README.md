@@ -1,1 +1,1 @@
-Hi 	U+1F44B
+Hi 	:wave:
